@@ -1,0 +1,18 @@
+.col-sm-8 {
+  min-height: 250px;
+  border: .7em solid #4f7449;
+  border-radius: 25px;
+  padding: 1.5em;
+  background-image: url(http://media.popcultcha.com.au/media/catalog/product/j/a/jabba-black-series-02.png);
+  background-position: 65%;
+  background-size: auto 175px;
+  background-repeat: no-repeat;
+}
+
+.container {
+  padding-top: 1em;
+}
+
+body {
+  background-color: #d2d1cd;
+}
